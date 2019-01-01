@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Look at the table the table.
+=======
+it was the beautiful day.
+>>>>>>> alien-plot

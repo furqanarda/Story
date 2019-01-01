@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Here is my example..
+=======
+it was the awful night.
+>>>>>>> alien-plot

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Where is my mind???
+=======
+It was the great night.
+>>>>>>> alien-plot
